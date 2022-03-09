@@ -1,4 +1,4 @@
-//Ex01 Prova de Python
+Ex01 Prova de Python
 
 lado1 = int(input("Lado 1: "))
 lado2 = int(input("Lado 2: "))
